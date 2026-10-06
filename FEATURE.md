@@ -1,3 +1,3 @@
 # Feature
 
-Add a chart comparing weekday versus weekend ride totals by city.
+Add a chart comparing average weekday versus weekend rides per day by city.
